@@ -4,29 +4,28 @@ Be sure to check out my website, still a [work in progress](https://indev.pinhea
 
 ### Connections
 
-[![website](./img/globe-light.svg)](https://pinhead.dev#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://pinhead.dev#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/gmail-light.svg)](mailto:pinhead@pinhead.dev#gh-light-mode-only)
-[![website](./img/gmail-dark.svg)](mailto:pinhead@ppinhead.dev#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/discord-light.svg)](https://discord.gg/uC5mqgK597#gh-light-mode-only)
-[![website](./img/discord-dark.svg)](https://discord.gg/uC5mqgK597#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/steam-light.svg)](https://steamcommunity.com/id/pinheadtf2#gh-light-mode-only)
-[![website](./img/steam-dark.svg)](https://steamcommunity.com/id/pinheadtf2#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/pinheadtf2#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/pinheadtf2#gh-light-mode-only)
-&nbsp;&nbsp;
+[<img align="left" alt="Website" width="26px" src="./img/globe-light.svg" style="padding-right:10px;" />](https://pinhead.dev#gh-light-mode-only)
+[<img align="left" alt="Website" width="26px" src="./img/globe-dark.svg" style="padding-right:10px;" />](https://pinhead.dev#gh-dark-mode-only)
+
+[<img align="left" alt="Email" width="26px" src="./img/gmail-light.svg" style="padding-right:10px;" />](mailto:pinhead@pinhead.dev#gh-light-mode-only)
+[<img align="left" alt="Email" width="26px" src="./img/gmail-dark.svg" style="padding-right:10px;" />](mailto:pinhead@ppinhead.dev#gh-dark-mode-only)
+
+[<img align="left" alt="Discord" width="26px" src="./img/discord-light.svg" style="padding-right:10px;" />](https://discord.gg/uC5mqgK597#gh-light-mode-only)
+[<img align="left" alt="Discord" width="26px" src="./img/discord-dark.svg" style="padding-right:10px;" />](https://discord.gg/uC5mqgK597#gh-dark-mode-only)
+
+[<img align="left" alt="Steam" width="26px" src="./img/steam-light.svg" style="padding-right:10px;" />](https://steamcommunity.com/id/pinheadtf2#gh-light-mode-only)
+[<img align="left" alt="Steam" width="26px" src="./img/steam-dark.svg" style="padding-right:10px;" />](https://steamcommunity.com/id/pinheadtf2#gh-dark-mode-only)
+
+[<img align="left" alt="Twitter" width="26px" src="./img/twitter-light.svg" style="padding-right:10px;" />](https://twitter.com/pinheadtf2#gh-light-mode-only)
+[<img align="left" alt="Twitter" width="26px" src="./img/twitter-dark.svg" style="padding-right:10px;" />](https://twitter.com/pinheadtf2#gh-dark-mode-only)
 
 ### Tools
 
-[<img align="left" alt="WebStorm" width="26px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" style="padding-right:10px;" />][https://www.jetbrains.com/webstorm]
-[<img align="left" alt="PyCharm" width="26px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" style="padding-right:10px;" />][https://www.jetbrains.com/pycharm]
-[<img align="left" alt="IntelliJ IDEA" width="26px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" style="padding-right:10px;" />][https://www.jetbrains.com/idea]
-[<img align="left" alt="Rider" width="26px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/Rider_icon.svg" style="padding-right:10px;" />][https://www.jetbrains.com/rider]
-[<img align="left" alt="VSCode" width="26px" src="./img/vscode.svg" style="padding-right:10px;" />][https://code.visualstudio.com]
+[<img align="left" alt="WebStorm" width="26px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" style="padding-right:10px;" />](https://www.jetbrains.com/webstorm)
+[<img align="left" alt="PyCharm" width="26px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" style="padding-right:10px;" />](https://www.jetbrains.com/pycharm)
+[<img align="left" alt="IntelliJ IDEA" width="26px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" style="padding-right:10px;" />](https://www.jetbrains.com/idea)
+[<img align="left" alt="Rider" width="26px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/Rider_icon.svg" style="padding-right:10px;" />](https://www.jetbrains.com/rider)
+[<img align="left" alt="VSCode" width="26px" src="./img/vscode.svg" style="padding-right:10px;" />](https://code.visualstudio.com)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/pinhead-tf2?tab=repositories#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com/pinhead-tf2?tab=repositories#gh-light-mode-only)
 
@@ -40,10 +39,12 @@ Be sure to check out my website, still a [work in progress](https://indev.pinhea
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][website]
 
-<details>
-  <summary>GitHub Stats</summary>
+### Stats
 
-  [![Stats](https://github-readme-stats-pinhead-tf2.vercel.app/api?username=pinhead-tf2&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>pinhead's Coding Stats</summary>
+
+  [![GitHub](https://github-readme-stats-pinhead-tf2.vercel.app/api?username=pinhead-tf2&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Languages](https://github-readme-stats-pinhead-tf2.vercel.app/api/top-langs/?username=pinhead-tf2&layout=compact&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
