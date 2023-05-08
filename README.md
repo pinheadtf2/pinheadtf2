@@ -4,7 +4,7 @@ Be sure to check out my website, still a [work in progress](https://indev.pinhea
 
 ### Stats
 
-[![pinhead's GitHub Stats](https://github-readme-stats-pinhead-tf2a.vercel.app/api?username=pinhead-tf2&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
+[![pinhead's GitHub Stats](https://github-readme-stats-pinhead-tf2.vercel.app/api?username=pinhead-tf2&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats-pinhead-tf2.vercel.app/api/top-langs/?username=pinhead-tf2&layout=compact&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
