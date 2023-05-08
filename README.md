@@ -2,7 +2,13 @@
 Name's pinhead, Minnesotan programmer here. Average python lover. 
 Be sure to check out my website, still a [work in progress](https://indev.pinhead.dev). 
 
-[![pinhead's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinhead-tf2&count_private=true&theme=github_dark&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
+### Stats
+
+[![pinhead's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pinhead-tf2&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinhead-tf2&layout=compact&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages - Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=pinheadtf2&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **pinhead-tf2/pinhead-tf2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
