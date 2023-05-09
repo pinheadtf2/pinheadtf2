@@ -46,6 +46,10 @@ Be sure to check out my website, still a [work in progress](https://indev.pinhea
 <br />
 <br />
 
+### Music
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qk13ch706fw6k5w052mot3ioa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=1e1e2e&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ### Stats
 
 <details>
