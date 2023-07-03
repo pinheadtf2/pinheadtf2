@@ -49,10 +49,10 @@ Be sure to check out my website, still a [pinhead.dev](https://pinhead.dev).
 ### Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-pinheadtf2.vercel.app/api?username=pinhead-tf2&show_icons=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+  <img height=200 align="center" src="https://github-readme-stats-pinheadtf2.vercel.app/api?username=pinhead-tf2&show_icons=true&include_all_commits=true&theme=prussian" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pinheadtf2&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pinheadtf2&theme=prussian" />
 </a>
 
 ### Music
