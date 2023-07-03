@@ -1,6 +1,6 @@
 ### Heya, name's pinhead
 Minnesotan programmer and student here. Average python lover. 
-Be sure to check out my website, still a [work in progress](https://indev.pinhead.dev). 
+Be sure to check out my website, still a [pinhead.dev](https://pinhead.dev). 
 <br />
 <br />
 
@@ -46,20 +46,18 @@ Be sure to check out my website, still a [work in progress](https://indev.pinhea
 <br />
 <br />
 
+### Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-pinheadtf2.vercel.app/api?username=pinhead-tf2&show_icons=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pinheadtf2&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+</a>
+
 ### Music
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qk13ch706fw6k5w052mot3ioa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=1e1e2e&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-### Stats
-
-<details>
-  <summary>pinhead's Coding Stats</summary><br />
-  
-  
-
-  [![GitHub](https://github-readme-stats-pinheadtf2.vercel.app/api?username=pinhead-tf2&show_icons=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats) | [![Top Languages](https://github-readme-stats-pinheadtf2.vercel.app/api/top-langs/?username=pinhead-tf2&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
-  | ------------- | ------------- |
-</details>
 
 [website]: https://pinhead.dev
 [email]: mailto:pinhead@pinhead.dev
