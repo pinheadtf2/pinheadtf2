@@ -1,16 +1,13 @@
 ### Heya, name's pinhead
 Minnesotan programmer and student here. Average python lover. 
-Be sure to check out my website, still a [pinhead.dev](https://pinhead.dev). 
+Be sure to check out my website, [pinhead.dev](https://pinhead.dev). 
 <br />
 <br />
 
 ### Contact Me
+Below is my Discord, otherwise I have my email attached beneath my profile picture.
 
 [![](https://discord.c99.nl/widget/theme-3/246291288775852033.png)](https://discord.gg/uC5mqgK597)
-
-[<img align="left" alt="Email" width="26px" src="./img/gmail-light.svg" style="padding-right:10px;" />](mailto:pinhead@pinhead.dev#gh-light-mode-only)
-[<img align="left" alt="Email" width="26px" src="./img/gmail-dark.svg" style="padding-right:10px;" />](mailto:pinhead@pinhead.dev#gh-dark-mode-only)
-<br />
 
 ### Tools
 
