@@ -4,11 +4,6 @@ Be sure to check out my website, [pinhead.dev](https://pinhead.dev).
 <br />
 <br />
 
-### Contact Me
-Below is my Discord, otherwise I have my email attached beneath my profile picture.
-
-[![](https://discord.c99.nl/widget/theme-3/246291288775852033.png)](https://discord.gg/uC5mqgK597)
-
 ### Tools
 
 
@@ -35,10 +30,10 @@ Below is my Discord, otherwise I have my email attached beneath my profile pictu
 ### Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-pinheadtf2.vercel.app/api?username=pinheadtf2&show_icons=true&include_all_commits=true&theme=prussian" />
+  <img height=200 align="center" src="https://github-readme-extended-pinheadtf2.vercel.app/api?username=pinheadtf2&show_icons=true&include_all_commits=true&theme=prussian" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pinheadtf2&theme=prussian" />
+  <img align="center" src="https://github-readme-extended.vercel.app/api/wakatime?username=pinheadtf2&theme=prussian" />
 </a>
 
 [website]: https://pinhead.dev
